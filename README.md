@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Benson Christopher Emuzo
+- 👀 I’m interested in Backend engineering
+- 🌱 I’m currently building projects with node.js & express.js
+- ✨ Aside JavaScript, I can also write PHP, I've buit a couple of simple project with it, like a simple weather app using OOP in PHP
+- 👀 I can also work with simple front end tools like HTML, CSS & Bootstrap
+- 🌱 I'm currently a backend engineer(intern) at InternPulse
+- 💞️ I’m looking to collaborate on backend problems
+- 📫 You can reach me at bensononate98@gmail.com
