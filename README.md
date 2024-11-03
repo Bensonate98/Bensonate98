@@ -5,4 +5,4 @@
 - 👀 I can also work with simple front end tools like HTML, CSS & Bootstrap
 - 🌱 I'm currently a backend engineer(intern) at InternPulse
 - 💞️ I’m looking to collaborate on backend problems
-- 📫 You can reach me at bensononate98@gmail.com
+- 📫 You can reach me at bensonate98@gmail.com
